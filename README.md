@@ -1,25 +1,5 @@
-## Hi there 👋
+## Redes
 
-<!--
-**IsaacVRey/IsaacVRey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/isaac-esau-vega-reynaga-09a8a5305/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Osea que
-*si escribo todo esto*
-**asi, se queda en una linea?**
-
-> Wow
-
-- bullet
-- points
+```Esto hace algo?```
