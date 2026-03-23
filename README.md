@@ -20,3 +20,6 @@ Osea que
 **asi, se queda en una linea?**
 
 > Wow
+
+- bullet
+- points
