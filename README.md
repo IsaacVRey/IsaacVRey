@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Osea que  
-si escribo todo esto  
-asi, se queda en una linea?
+Osea que
+*si escribo todo esto*
+**asi, se queda en una linea?**
